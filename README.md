@@ -5,7 +5,7 @@
   ## Description
   This is a README.md generator for web developers who wish to have a professional looking README.md file and save time by not having to write all the syntax themselves but just to simply answer some questions
 
-  ![Image Of Project](./imageOfProject)
+  ![Image Of Project](./02-Homework/Develop/imageOfProject.jpg)
 
   ## Table of contents
 - [Description](#Description)
